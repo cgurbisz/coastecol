@@ -1,7 +1,7 @@
 +++
 # Hero widget. #can add a big photo to the top with this file
 widget = "hero"
-active = true
+active = false
 date = 2017-10-15T00:00:00
 
 title = ""
