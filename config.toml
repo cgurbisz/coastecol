@@ -13,7 +13,7 @@ title = "Gurbisz Coastal Ecosystem Ecology Lab"
 copyright = "&copy; Cassie Gurbisz 2018"
 
 theme = "hugo-academic"
-enableEmoji = true
+enableE?moji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
