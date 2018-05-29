@@ -6,7 +6,7 @@ date = 2018-05-21T00:00:00
 title = "SAV beds as nutrient and sediment sinks"
 
 # Project summary to display on homepage.
-summary = "Quantifying the effect of SAV beds on Chesapeake Bay nutrient and sediment dynamics"
+summary = "Measuring the effect of SAV on Chesapeake Bay nutrient and sediment dynamics"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "sav.JPG"
