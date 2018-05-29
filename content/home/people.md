@@ -14,8 +14,7 @@ subtitle = ""
 weight = 20
 
 +++
-**Cassie Gurbisz**  
-<img src="/home/people_files/cassie_starfish_sm.jpg" alt="Cassie Gurbisz" width="250px"  style="float:left;margin:0 20px 20px 0;" />Dr. Cassie Gurbisz is an Assistant Professor of Environmental Studies at St. Mary’s College of Maryland (SMCM). She is a coastal ecosystem ecologist and environmental educator. Prior to joining SMCM, she worked as a postdoctoral fellow at the National Socio-Environmental Synthesis Center, a graduate research assistant and ocean science education program manager at the University of Maryland Center for Environmental Science Horn Point Laboratory, and an environmental educator for the Chesapeake Bay Foundation. 
+<img src="/home/people_files/cassie_starfish_sm.jpg" alt="Cassie Gurbisz" width="250px"  style="float:left;margin:0 20px 20px 0;" />Dr. Cassie Gurbisz is an Assistant Professor of Environmental Studies at St. Mary’s College of Maryland (SMCM). Prior to joining SMCM, she worked as a postdoctoral fellow at the National Socio-Environmental Synthesis Center, a graduate research assistant and ocean science education program manager at the University of Maryland Center for Environmental Science Horn Point Laboratory, and an environmental educator for the Chesapeake Bay Foundation. 
 
 
 
