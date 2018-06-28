@@ -41,7 +41,7 @@ caption = "Cleaning and sorting SAV samples by species in the lab"
 [[gallery_item]]
 album = "1"
 image = "2018-06-21_crew.JPG"
-caption = "The field crew: Ben (college), Blake Clark (UMCES Horn Point Lab), Margaret Martinez (Wayne State)"
+caption = "The field crew: Ben Lane (REU student, St. Olaf College), Blake Clark (PhD student, UMCES Horn Point Lab), Margaret Martinez (REU student, Wayne State)"
 
 [[gallery_item]]
 album = "1"
