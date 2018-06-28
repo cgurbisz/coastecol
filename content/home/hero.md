@@ -6,7 +6,7 @@ date = 2017-10-15T00:00:00
 
 title = ""
 
-<meta name="google-site-verification" content="RBTAQIQMZWUutZsA0Ppuv8RJd4wMSnbK7XTprU0Uk2Q" />
+#<meta name="google-site-verification" content="RBTAQIQMZWUutZsA0Ppuv8RJd4wMSnbK7XTprU0Uk2Q" />
 
 # Order that this section will appear in.
 weight = 3
