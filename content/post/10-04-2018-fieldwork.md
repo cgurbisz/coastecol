@@ -6,7 +6,7 @@ lastmod = 2018-10-04T00:00:00
 draft = false
 
 tags = ["sav", "submersed aquatic vegetation", "fieldwork"]
-summary = "We got our summer sampling in despite all the rain."
+summary = "We completed our summer sampling despite all the rain."
 
 
 [header]
