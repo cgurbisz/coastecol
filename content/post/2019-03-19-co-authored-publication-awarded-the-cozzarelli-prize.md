@@ -1,15 +1,15 @@
 ---
 title: Co-authored publication awarded the Cozzarelli Prize
-author: ''
+author: 'Cassie Gurbisz'
 date: '2019-03-19'
-slug: co-authored-publication-awarded-the-cozzarelli-prize
+slug: cozzarelli-prize
 categories: []
 tags: ["submersed aquatic vegetation", "sav", "seagrass"]
 subtitle: ''
-summary: 'The National Academy of Sciences awarded a paper on which we collaborated the Cozzarelli Prize'
+summary: 'The National Academy of Sciences awarded a co-authored paper the Cozzarelli Prize'
 authors: ["Cassie Gurbisz"]
 lastmod: '2019-07-17T12:44:21-04:00'
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
