@@ -14,17 +14,18 @@ subtitle = ""
 weight = 20
 
 +++
-<img src="/home/people_files/cassie_starfish_sm.jpg" alt="Cassie Gurbisz" width="250px"  style="float:left;margin:0 20px 20px 0;" />Dr. Cassie Gurbisz is an Assistant Professor of Environmental Studies at St. Mary’s College of Maryland (SMCM). Prior to joining SMCM, she worked as a postdoctoral fellow at the [National Socio-Environmental Synthesis Center](https://www.sesync.org/), a graduate research assistant and ocean science education program manager at the [University of Maryland Center for Environmental Science Horn Point Laboratory](https://www.umces.edu/hpl), and an environmental educator for the [Chesapeake Bay Foundation](http://www.cbf.org/).   
+<img src="/home/people_files/cassie_starfish_sm.jpg" alt="Cassie Gurbisz" width="240px"  style="float:left;margin:0 20px 20px 0;" />Dr. Cassie Gurbisz is an Assistant Professor of Environmental Studies at St. Mary’s College of Maryland (SMCM). Prior to joining SMCM, she worked as a postdoctoral fellow at the [National Socio-Environmental Synthesis Center](https://www.sesync.org/), a graduate research assistant and ocean science education program manager at the [University of Maryland Center for Environmental Science Horn Point Laboratory](https://www.umces.edu/hpl), and an environmental educator for the [Chesapeake Bay Foundation](http://www.cbf.org/).   
    
-      
+   
          
-         
+            
+            
 #### Directed research students   
 2019: Victoria Lusk   
 2018: Meghan Petenbrink, Sylvia Klein
  
 #### Student Undergraduate Research Fellow   
-2019: Colleen McGuire (2019)
+2019: Colleen McGuire
 
 #### St. Mary's Project Students   
 2018-2019: Chelsea English, Isaac Hersh, Kajsa Newton, Isaac Page, Dylan Powell, Tyler Scott   
