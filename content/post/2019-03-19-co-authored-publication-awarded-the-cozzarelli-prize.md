@@ -16,4 +16,4 @@ image:
   preview_only: no
 projects: []
 ---
-The National Academy of Sciences awarded the Cozzarelli Prize to a paper on which I recently collaborated. The article, titled "Long-term nutrient reductions lead to the unprecedented recovery of a temperate coastal region," was one of several products developed by a data synthesis working group funded by the EPA Chesapeake Bay Program. The paper linked recent submersed aquatic vegetation recovery in the Chesapeake Bay to reductions in nutrient pollution from the surrounding watershed.   
+The National Academy of Sciences awarded the Cozzarelli Prize to a paper on which I recently collaborated. The article, titled "Long-term nutrient reductions lead to the unprecedented recovery of a temperate coastal region," was one of several products developed by a data synthesis working group funded by the EPA Chesapeake Bay Program. The paper linked recent submersed aquatic vegetation recovery in the Chesapeake Bay to reductions in nutrient pollution from the surrounding watershed. What an honor to work with such a talented and diverse group of scientists! 
