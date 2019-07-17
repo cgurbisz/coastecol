@@ -3,7 +3,7 @@
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-07-17T00:00:00
 
 title = "News"
 subtitle = ""
@@ -18,11 +18,11 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 1
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 1
+list_format = 0
 +++
 
